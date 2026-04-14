@@ -16,9 +16,9 @@ These documents are structured to reflect real-world GRC (Governance, Risk, and 
 
 | Document | Version | Last Updated | Description |
 |---|---|---|---|
-| `Privacy_Management_Policy.pdf` | 1.0 | February 2026 | Framework for protecting personal and sensitive data |
-| `Password_Construction_Standard.pdf` | 1.0 | April 2025 | Guidelines for creating strong, compliant passwords |
-| `Acceptable_Use_Standard.pdf` | 1.0 | April 2025 | Rules governing acceptable use of company technology |
+| [`Privacy_Management_Policy.pdf`](sans_Privacy_Management_Policy.pdf) | 1.0 | February 2026 | Framework for protecting personal and sensitive data |
+| [`Password_Construction_Standard.pdf`](SANS_Password_Construction_Standard.pdf) | 1.0 | April 2025 | Guidelines for creating strong, compliant passwords |
+| [`Acceptable_Use_Standard.pdf`](SANS_Acceptable_Use_Standard.pdf) | 1.0 | April 2025 | Rules governing acceptable use of company technology |
 
 ---
 
