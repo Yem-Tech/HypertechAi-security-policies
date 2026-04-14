@@ -1,4 +1,4 @@
-# 🔐 HypertechAI — Cybersecurity Policy Repository
+# 🔐 HypertechAi — Cybersecurity Policy Repository
 
 > **⚠️ Disclaimer:** This is a **dummy/practice repository** created for educational and portfolio purposes. The policies contained here are adapted from publicly available SANS Institute cybersecurity policy templates. HypertechAI is a fictional organization. These documents are **not** intended to represent real corporate policies in production use.
 
