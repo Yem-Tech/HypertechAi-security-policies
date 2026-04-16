@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository serves as a centralized documentation hub for HypertechAI's core cybersecurity governance documents. It contains three foundational policies that define how the organization handles information security, user behavior, and data privacy.
+This repository serves as a centralized documentation hub for HypertechAi's core cybersecurity governance documents. It contains three foundational policies that define how the organization handles information security, user behavior, and data privacy.
 
 These documents are structured to reflect real-world GRC (Governance, Risk, and Compliance) practices and are suitable for reference, learning, or adaptation.
 
@@ -43,7 +43,7 @@ Establishes a comprehensive framework for protecting the privacy and confidentia
 ### 2. Password Construction Standard
 **Last Updated:** April 2025
 
-Provides best practices for creating strong passwords across all HypertechAI systems and accounts. Key requirements include:
+Provides best practices for creating strong passwords across all HypertechAi systems and accounts. Key requirements include:
 
 - Minimum password length of **16 characters** for all work-related accounts
 - Encouragement of **passphrases** (e.g., multi-word combinations) for memorability and strength
@@ -58,7 +58,7 @@ Provides best practices for creating strong passwords across all HypertechAI sys
 ### 3. Acceptable Use Standard
 **Last Updated:** April 2025
 
-Outlines the rules and expectations for appropriate use of HypertechAI's technology resources, networks, and electronic devices. Key areas covered include:
+Outlines the rules and expectations for appropriate use of HypertechAi's technology resources, networks, and electronic devices. Key areas covered include:
 
 - General use and ownership of company assets
 - Security and proprietary information handling
