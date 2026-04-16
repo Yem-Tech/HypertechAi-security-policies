@@ -1,6 +1,6 @@
 # 🔐 HypertechAi — Cybersecurity Policy Repository
 
-> **⚠️ Disclaimer:** This is a **dummy/practice repository** created for educational and portfolio purposes. The policies contained here are adapted from publicly available SANS Institute cybersecurity policy templates. HypertechAI is a fictional organization. These documents are **not** intended to represent real corporate policies in production use.
+> **⚠️ Disclaimer:** This is a **dummy/practice repository** created for educational and portfolio purposes. The policies contained here are adapted from publicly available SANS Institute cybersecurity policy templates. HypertechAi is a fictional organization. These documents are **not** intended to represent real corporate policies in production use.
 
 ---
 
@@ -27,7 +27,7 @@ These documents are structured to reflect real-world GRC (Governance, Risk, and 
 ### 1. Privacy Management Policy
 **Last Updated:** February 2026
 
-Establishes a comprehensive framework for protecting the privacy and confidentiality of personal and sensitive data processed by HypertechAI. Key areas covered include:
+Establishes a comprehensive framework for protecting the privacy and confidentiality of personal and sensitive data processed by HypertechAi. Key areas covered include:
 
 - Data collection, storage, use, disclosure, and disposal procedures
 - Data subject rights (correction requests, right to be forgotten)
